@@ -1,0 +1,36 @@
+body{
+	background-color:lightblue;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.content{
+	background-color: white;
+	max-width: 750px;
+	margin: -15px auto;
+	padding: 35px;
+	border: 5px solid lightgrey;
+	box-shadow: 2px 2px 15px grey;
+}
+
+h1 {
+	text-align: center
+}
+
+.special-text {
+	color:fuchsia;
+}
+
+.content-table {
+	height: 250px;
+	width: 250px;
+	border: 1px solid grey;
+	margin: 0 auto;
+}
+
+.content-table li {
+	margin-bottom: 10px
+}
+
+.content-table h3 {
+	text-align: center;
+}
